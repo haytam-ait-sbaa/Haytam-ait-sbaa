@@ -25,3 +25,7 @@ Premier démarrage + connexion
 
 Créer le snapshot
 <img width="1918" height="1018" alt="Capture d&#39;écran 2026-02-07 225652" src="https://github.com/user-attachments/assets/3cb25ef0-a7b5-46a0-8cfd-ab6db18df3c9" />
+
+Option A — Smartphone test via USB
+<img width="982" height="168" alt="Capture d&#39;écran 2026-02-07 230051" src="https://github.com/user-attachments/assets/1771a322-83da-4651-85b9-29d6d16ca14a" />
+
