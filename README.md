@@ -4,8 +4,10 @@
 <img width="949" height="985" alt="Capture d&#39;écran 2026-02-07 213110" src="https://github.com/user-attachments/assets/0a123dfb-235d-4556-9e06-27a8fb1a2cbb" />
 
 <img width="954" height="1017" alt="Capture d&#39;écran 2026-02-07 213745" src="https://github.com/user-attachments/assets/83d850ac-c1cd-4c79-a77f-04f00db3a17e" />
+
 Premier démarrage + connexion
 <img width="1026" height="1026" alt="Capture d&#39;écran 2026-02-07 213825" src="https://github.com/user-attachments/assets/edf1890b-b1de-4195-afc7-eed9538885de" />
+
  Vérifier le réseau 
 <img width="1004" height="1012" alt="Capture d&#39;écran 2026-02-07 213833" src="https://github.com/user-attachments/assets/f506b8fd-0860-40b2-a9c7-0cf35310a89c" />
 
@@ -20,3 +22,6 @@ Premier démarrage + connexion
 <img width="1333" height="283" alt="Capture d&#39;écran 2026-02-07 214627" src="https://github.com/user-attachments/assets/d8f9e53d-52bc-446c-97c2-d1f25b02a05f" />
 
 <img width="1068" height="317" alt="Capture d&#39;écran 2026-02-07 214759" src="https://github.com/user-attachments/assets/f0d2f166-1d6d-4665-a54f-0ab3b63985d6" />
+
+Créer le snapshot
+<img width="1918" height="1018" alt="Capture d&#39;écran 2026-02-07 225652" src="https://github.com/user-attachments/assets/3cb25ef0-a7b5-46a0-8cfd-ab6db18df3c9" />
